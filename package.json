@@ -7,7 +7,7 @@
   "scripts": {
     "start": "node ./bottok.js"
   },
-  "repository": "git@github.com/deku123-12/bottok",
+  "repository": "git@github.com/deku123-12/bottok.git",
   "bugs": {
     "url": "https://github.com/jfadev/bottok/issues"
   },
